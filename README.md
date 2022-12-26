@@ -5,9 +5,7 @@ https://documenter.getpostman.com/view/8411283/SVfMSqA3?version=latest#cd25ab7d-
 Developed on node v18.12.1.
 
 A mini wallet made with node & expressjs, using SQLite.
-to run on windows, just run wallet.exe.
-
-for another OS, you can run it after installing node. download / clone this code, and then run
+to run the program, you can run it after installing node. Download / clone this code, and then run
 
 npm install
 
